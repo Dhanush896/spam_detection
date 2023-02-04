@@ -29,7 +29,7 @@ The SMS Spam Collection is a set of SMS tagged messages that have been collected
 * Determine best performing model and use it to classify new messages and deploy them with django
 
 ## WEB PAGE
-[]()
+![image](https://user-images.githubusercontent.com/115776634/216759501-6f41bd06-d82a-4709-b1d2-43334d3755ba.png)
 ## OUTPUT 
 ## TOOLS
 - python
