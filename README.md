@@ -27,10 +27,6 @@ The SMS Spam Collection is a set of SMS tagged messages that have been collected
 * Train several machine learning models (Naive Bayes, SVM, Random Forest,Logistic Regression)
 * Evaluate models based on accuracy, precision, recall, and F1-score
 * Determine best performing model and use it to classify new messages and deploy them with django
-
-## WEB PAGE
-![image](https://user-images.githubusercontent.com/115776634/216759501-6f41bd06-d82a-4709-b1d2-43334d3755ba.png)
-## OUTPUT 
 ## TOOLS
 - python
 - jupyternotebook- modelbuilding
@@ -40,3 +36,8 @@ The SMS Spam Collection is a set of SMS tagged messages that have been collected
 - logistic regression
 - Random forest classifier
 - SVM
+## WEB PAGE
+![image](https://user-images.githubusercontent.com/115776634/216759501-6f41bd06-d82a-4709-b1d2-43334d3755ba.png)
+## OUTPUT 
+![image](https://user-images.githubusercontent.com/115776634/216759627-7bbde187-a445-4462-b39f-d9fd7e80a800.png)
+
